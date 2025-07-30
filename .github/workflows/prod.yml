@@ -15,7 +15,7 @@ jobs:
       - name: Hi
         run: echo "Hello World!"
 
-      # - name: Checkout
+# - name: Checkout
       #   uses: actions/checkout@v4
 
       # - name: Setup Python
